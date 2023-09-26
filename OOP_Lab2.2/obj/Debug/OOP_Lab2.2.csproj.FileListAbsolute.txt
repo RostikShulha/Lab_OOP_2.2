@@ -1,0 +1,7 @@
+C:\Users\shulg\source\repos\OOP_Lab2.2\OOP_Lab2.2\obj\Debug\OOP_Lab2.2.csproj.AssemblyReference.cache
+C:\Users\shulg\source\repos\OOP_Lab2.2\OOP_Lab2.2\obj\Debug\OOP_Lab2.2.csproj.CoreCompileInputs.cache
+C:\Users\shulg\source\repos\OOP_Lab2.2\OOP_Lab2.2\bin\Debug\OOP_Lab2.2.exe.config
+C:\Users\shulg\source\repos\OOP_Lab2.2\OOP_Lab2.2\bin\Debug\OOP_Lab2.2.exe
+C:\Users\shulg\source\repos\OOP_Lab2.2\OOP_Lab2.2\bin\Debug\OOP_Lab2.2.pdb
+C:\Users\shulg\source\repos\OOP_Lab2.2\OOP_Lab2.2\obj\Debug\OOP_Lab2.2.exe
+C:\Users\shulg\source\repos\OOP_Lab2.2\OOP_Lab2.2\obj\Debug\OOP_Lab2.2.pdb
